@@ -39,9 +39,18 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/yashchenkon/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/yashchenkon/" height="20" width="20" /></a>
-  <a href="https://www.facebook.com/yashchenkon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/yashchenkon" height="20" width="20" /></a>
-  <a href="https://www.instagram.com/yashchenkon/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/yashchenkon/" height="20" width="20" /></a>
+  <a href="https://www.linkedin.com/in/yashchenkon/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/yashchenkon/" height="20" width="20" />
+  </a>
+  <a href="https://www.facebook.com/yashchenkon" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/yashchenkon" height="20" width="20" />
+  </a>
+  <a href="https://www.instagram.com/yashchenkon/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/yashchenkon/" height="20" width="20" />
+  </a>
+  <a href="https://t.me/mykola_ya" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://t.me/mykola_ya" height="20" width="20" />
+  </a>
 
 </p>
 
