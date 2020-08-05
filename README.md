@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 💬 Don't hesitate to contact me
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=YashchenkoN&show_icons=true" alt="YashchenkoN" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YashchenkoN&show_icons=true" alt="YashchenkoN" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashchenkoN&hide=html,css" alt="YashchenkoN" height="200" />
 </p>
 
