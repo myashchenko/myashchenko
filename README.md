@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   - 💬 Ask me about **anything**
 
   - 📫 How to reach me **vkont4@gmail.com**
+</p>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=YashchenkoN&show_icons=true" alt="YashchenkoN" />
