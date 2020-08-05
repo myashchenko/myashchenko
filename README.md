@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mykola Yashchenko</h1>
 <h3 align="center">A passionate Software Engineer and Open Source contributor</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=YashchenkoN" alt="YashchenkoN" />
 
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws" width="20" height="20" /> 
