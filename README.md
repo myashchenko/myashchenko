@@ -25,11 +25,11 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="20" height="20" /> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20" />
 
-  - 👨‍💻 All of my projects are available [here](https://github.com/YashchenkoN?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/YashchenkoN?tab=repositories)
 
-  - 💬 Ask me about **anything**
+- 💬 Ask me about **anything**
 
-  - 📫 How to reach me **vkont4@gmail.com**
+- 📫 How to reach me **vkont4@gmail.com**
 </p>
 
 <p align="center"> 
