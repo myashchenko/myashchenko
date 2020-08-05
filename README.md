@@ -28,11 +28,11 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20" />
 </p>
 
-- 👨‍💻 All of my projects are available [here](https://github.com/YashchenkoN?tab=repositories)
+- 💻 Passionate Software Engineer and Open Source contributor
 
-- 💬 Ask me about **anything**
+- 📊 All of my projects are available [here](https://github.com/YashchenkoN?tab=repositories)
 
-- 📫 How to reach me **vkont4@gmail.com**
+- 💬 Don't hesitate to contact me
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=YashchenkoN&show_icons=true" alt="YashchenkoN" />
