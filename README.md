@@ -24,13 +24,13 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20" />
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="20" height="20" /> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20" />
+</p>
 
 - 👨‍💻 All of my projects are available [here](https://github.com/YashchenkoN?tab=repositories)
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **vkont4@gmail.com**
-</p>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=YashchenkoN&show_icons=true" alt="YashchenkoN" />
