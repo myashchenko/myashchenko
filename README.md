@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.githubusercontent.com/YashchenkoN/YashchenkoN/master/banner_top.png" alt="Hero image">
 
 <h1 align="center">Hi 👋, I'm Mykola Yashchenko</h1>
 
@@ -54,3 +55,4 @@ Here are some ideas to get you started:
 
 </p>
 
+<img src="https://raw.githubusercontent.com/YashchenkoN/YashchenkoN/master/banner_footer.png" alt="Hero image">
