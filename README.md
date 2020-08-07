@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 <img src="https://raw.githubusercontent.com/YashchenkoN/YashchenkoN/master/banner_top.png" alt="Hero image">
 
-<h1 align="center">Hi 👋, I'm Mykola Yashchenko</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YashchenkoN" alt="YashchenkoN" />
 
